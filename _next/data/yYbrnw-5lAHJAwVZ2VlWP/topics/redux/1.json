@@ -1,0 +1,1 @@
+{"pageProps":{"activeTab":"junior","back":"/topics","questions":[],"tabs":[{"label":"Junior","slug":"junior","link":"/topics/redux/1"},{"label":"Middle","slug":"middle","link":"/topics/redux/2"},{"label":"Senior","slug":"senior","link":"/topics/redux/3"}],"title":"Questions","topic":{"id":"","image":"/img/topics/redux.svg","slug":"redux","label":"Redux"}},"__N_SSG":true}
