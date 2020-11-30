@@ -1,0 +1,1 @@
+{"pageProps":{"activeTab":"middle","back":"/topics","questions":[],"tabs":[{"label":"Junior","slug":"junior","link":"/topics/vue/1"},{"label":"Middle","slug":"middle","link":"/topics/vue/2"},{"label":"Senior","slug":"senior","link":"/topics/vue/3"}],"title":"Questions","topic":{"image":"/img/topics/vue.svg","slug":"vue","label":"Vue","inprogress":true}},"__N_SSG":true}
